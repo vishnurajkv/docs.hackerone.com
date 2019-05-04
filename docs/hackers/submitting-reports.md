@@ -41,4 +41,4 @@ After you've submitted your report, you must wait for programs to respond to you
 
 ### Related Pages
 
-[Restricted From Submissions](/hackers/restricted-from-submissions.html)
+[Restricted From Submissions](/hackers/restricted-from-submissions.html).
